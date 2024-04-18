@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Aitana, a 20 year old Data Science student at the Universitat Politècnica de València. Feel free to watch my repositories, even though I've haven't had enough time to reorganize them, you'll find:
+* Software project: It's the Software subsystem project from the Hyperloop UPV training center. In this project I've built a server for users to chat.
+* Artemis project: This project is amazing, but is secret at the moment. More details will be shown on May 2024
+* Autextification: It's a class project that consists on telling apart between AI generated and human generated texts.
+ 
