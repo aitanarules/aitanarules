@@ -15,9 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Aitana, a 20 year old Data Science student at the Universitat Politècnica de València. Feel free to watch my repositories, though they're a bit messy. You'll find:
-* Software project: It's the Software subsystem project from the Hyperloop UPV training center. In this project I've built a server for users to chat.
-* Software project 2: It's the second Software subsystem project from HL UPV, In this project we can visualize real-time data from the POD simulator. 
-* Valen Explora: This project is amazing. We've built an app in 3 months whose aim is to promote valencian towns trough technology. We want to show the users the attractiveness of these valencian towns with a game and reward system. 
-* Autextification: It's a class project that consists on telling apart between AI generated and human generated texts.
- 
+I'm Aitana, a Data Science student at UPV. Feel free to look through my repositories and get some inspiration maybe!
